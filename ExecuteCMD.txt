@@ -1,1 +1,1 @@
-python3 pppwn.py --interface enp0s31f6 --fw 1100 --stage1 stage1/stage1.bin --stage2 stage2/stage2_11.00.bin
+python3 pppwn.py --interface <YOURETHERNETID> --fw 1100 --stage1 stage1/stage1.bin --stage2 stage2/stage2_11.00.bin
