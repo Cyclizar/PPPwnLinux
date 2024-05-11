@@ -1,5 +1,9 @@
 # PPPwnLinux
 
+# YouTube Guide:
+https://www.youtube.com/watch?v=7-7Tot0-868
+
+
 
 # about
 this is just SiSTRo's PPPwn (https://github.com/sistr0/pppwn) with his goldhen and stage2 all in one place, and the instructions are designed around linux. was able to get this running on my lenovo t470 dualbooting linux mint 21.3, and my macbook pro 2012 primarily running linux mint cinnamon 21.2. windows sucks for this exploit, so use linux!! trust me its better. 
